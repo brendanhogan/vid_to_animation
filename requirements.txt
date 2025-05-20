@@ -1,0 +1,6 @@
+opencv-python
+replicate
+openai
+requests
+tqdm
+moviepy==1.0.3 
